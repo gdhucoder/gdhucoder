@@ -2,7 +2,7 @@
 
 > An algorithm must be seen to be believed. — Donald Knuth
 
-我在广东工业大学工作，常驻深圳。这里记录我围绕算法、语音交互、桌面应用和个人硬件实验所做的项目。
+记录我围绕算法、语音交互、桌面应用和个人探索相关项目。
 
 ## 正在做
 
