@@ -16,10 +16,3 @@
 | --- | --- |
 | [Algorithms4](https://github.com/gdhucoder/Algorithms4) | 《Algorithms, 4th Edition》算法练习与解答，Java 实现。 |
 | [DesignPattern](https://github.com/gdhucoder/DesignPattern) | 手绘设计模式与 SOLID 相关整理。 |
-| [GoodbyePaidImageBed](https://github.com/gdhucoder/GoodbyePaidImageBed) | 跨平台图床上传工具。 |
-| [Penalty Severity Generalization](https://github.com/gdhucoder/penalty-severity-generalization) | 行政处罚程度分类跨部门泛化研究的公开代码发布入口；当前仍在机构审核阶段。 |
-
-## 其他链接
-
-- 个人网站：[gdhucoder.github.io](https://gdhucoder.github.io/)
-- GitHub：[github.com/gdhucoder](https://github.com/gdhucoder)
