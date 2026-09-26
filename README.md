@@ -1,6 +1,8 @@
+# Leon Hu
 
-<div align="center">
+> An algorithm must be seen to be believed. — Donald Knuth
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gdhucoder&theme=graywhite&show_icons=true)
+Algorithm engineer at Guangdong University of Technology, based in Shenzhen.
 
-</div>
+- Website: [gdhucoder.github.io](https://gdhucoder.github.io/)
+- GitHub: [@gdhucoder](https://github.com/gdhucoder)
